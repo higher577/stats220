@@ -1,5 +1,5 @@
 # stats220
-## 2023 Semester 1 Project 1
+## 2023 Semester 1 Project 1 Part A
 ### Youmin Kim ykim753
 
 * use of two different levels of headers [above]
